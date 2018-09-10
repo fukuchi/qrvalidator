@@ -1,3 +1,6 @@
 [submodule "libqrencode"]
 	path = libqrencode
 	url = https://github.com/fukuchi/libqrencode
+[submodule "quirc"]
+	path = quirc
+	url = git@github.com:fukuchi/quirc
